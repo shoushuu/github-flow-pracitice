@@ -1,0 +1,2 @@
+defaukt content.
+NEW content
